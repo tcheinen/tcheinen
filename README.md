@@ -3,9 +3,9 @@
 
 - I'm currently working on [TAMUctf](https://github.com/tamuctf/) (also a lot of other things that's just the biggest)
 - I'm interested in pretty much anything related to security, the lower-level the better! 
-- My blog and website can be found [here](https://teddyheinen.com), it's pretty much entirely CTF writeups
+- My blog and website can be found [here](https://heinen.dev), it's pretty much entirely CTF writeups
 - I can be contacted via [LinkedIn](https://www.linkedin.com/in/teddyheinen/) or by email at [teddy@heinen.dev](mailto:teddy@heinen.dev)
-- My (generally updated) resume can be found [here](https://teddyheinen.com/resume.pdf)
+- My (generally updated) resume can be found [here](https://heinen.dev/resume.pdf)
 - My pronouns are *they/them/theirs*
 
 
